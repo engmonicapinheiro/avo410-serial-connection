@@ -1,4 +1,4 @@
-# How ist the connection being done
+# How is the connection being done
 
  - multimeter [avo410](https://uk.megger.com/digital-multimeter-avo410)
  - rs pro 460-9881
@@ -79,7 +79,7 @@ Nothing appeared in the console but, after pessing the RS232 button, garbage cha
 
 According to Monica, this is sometimes fixed by setting the serial port's baud rate.
 
-# How to fix the buad rate in linux
+# How to fix the baud rate in linux
 
 First things first, we needed to avoid using sudo :
 

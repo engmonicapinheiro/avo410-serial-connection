@@ -1,5 +1,7 @@
 # How is the connection being done
 
+Hardware involved:
+
  - multimeter [avo410](https://uk.megger.com/digital-multimeter-avo410)
  - rs pro 460-9881
  - usb-rs-232 converter - [VOTEK FTDI Chipset Plugable USB to RS232](https://www.amazon.co.uk/Chipset-Plugable-adapter-support-Windows/dp/B01CCNR7W6/ref=cm_sw_em_r_dp_da_3Qr-ybV39D8KR_tt)
